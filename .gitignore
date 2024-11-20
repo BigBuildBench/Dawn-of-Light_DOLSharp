@@ -1,0 +1,11 @@
+/build
+/Debug
+/Release
+/.vs
+/.vscode
+/old/.vs
+/old/build
+/old/Debug
+/old/Release
+/Pathing/Detour/build
+**/*.csproj.user
